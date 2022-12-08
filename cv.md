@@ -5,7 +5,7 @@
 ## Contacts:
 
 * Discord: Таня#2855
-* E-mail: kylikovatatyana1993@mail.----------
+* E-mail: kylikovatatyana1993@mail.ru
 * Tel: +7 912 67 10 823
 
 ---
