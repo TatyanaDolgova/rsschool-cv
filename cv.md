@@ -22,6 +22,7 @@
 * Git, GitHub
 
 ---
+
 ## Code example:
 
 `
@@ -35,3 +36,22 @@ function sum (numbers) {
     
 };
 `
+---
+
+## Courses:
+
+* CS50 video course
+* Udemy : web development 2022
+* JavaScript https://learn.javascript.ru/
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+---
+
+## Language:
+
+Russian - Native
+English level - A2
+
+## My project
+
+[online food devilery store](https://github.com/TatyanaDolgova/online-store)
