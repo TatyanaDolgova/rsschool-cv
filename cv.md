@@ -25,8 +25,7 @@
 ---
 
 ## Code example:
-
-
+```
 // Sum Numbers
 function sum (numbers) {
     "use strict";
@@ -35,7 +34,7 @@ function sum (numbers) {
     }
     return numbers.reduce((num, count) => num + count);
 };
-
+```
 ---
 
 ## Courses:
