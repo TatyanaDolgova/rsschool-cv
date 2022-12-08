@@ -11,7 +11,7 @@
 ---
 
 ## About myself:
-
+ I'm 29 years old. Programming  is still my hobby. I like to learn new things in this field every day.
 ---
 
 ## Skills and Proficiency:
@@ -20,20 +20,21 @@
 * CSS3
 * JavaScript Basics
 * Git, GitHub
+* Figma
 
 ---
 
 ## Code example:
 
 
-    // Sum Numbers
-    function sum (numbers) {
-        "use strict";
-      if (numbers.length === 0) {
-        return 0;
-      }
-        return numbers.reduce((num, count) => num + count);
-    };
+// Sum Numbers
+function sum (numbers) {
+    "use strict";
+    if (numbers.length === 0) {
+    return 0;
+    }
+    return numbers.reduce((num, count) => num + count);
+};
 
 ---
 
@@ -53,4 +54,4 @@ English level - A2
 
 ## My project
 
-[online food devilery store](https://github.com/TatyanaDolgova/online-store)
+[Online food devilery store](https://github.com/TatyanaDolgova/online-store)
