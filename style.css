@@ -1,0 +1,75 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url("assets/fonts/Poppins-Bold.ttf");
+    font-weight: 700;
+}
+  @font-face {
+    font-family: 'Poppins';
+    src: url("assets/fonts/Poppins-Regular.ttf");
+    font-weight: 400;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Poppins, sans-serif;
+}
+
+.header {
+    background-color: #c8b9f4;
+    min-height: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.header-link {
+    margin-right: 20px;
+    text-decoration: none;
+    color: #000;
+    font-size: 22px;
+}
+
+.profile {
+    display: flex;
+    flex-direction: row;
+    padding-top: 80px;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.profile__columns {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+.profile__my-photo {
+    max-width: 350px;
+    border-radius: 50%;
+}
+
+.profile__my-name {
+    text-transform: uppercase;
+    font-size: 36px;
+    line-height: 1.15;
+    /* font-weight: 700; */
+    margin-bottom: 50px;
+}
+
+.plofile__my-profession {
+    margin-top: 50px;
+    font-size: 28px;
+}
+
+.profile__stripe {
+    height: 2px;
+    width: 200px;
+    background-color: #c8b9f4
+}
