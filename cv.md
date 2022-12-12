@@ -11,16 +11,20 @@
 ---
 
 ## About myself:
- I'm 29 years old. Programming  is still my hobby. I like to learn new things in this field every day.
+ Hi, there. I'm 29 years old. Programming  is still my hobby. I like to learn new things in this field every day.
 ---
 
 ## Skills and Proficiency:
 
 * HTML5 
 * CSS3
-* JavaScript Basics
+* JavaScript
 * Git, GitHub
 * Figma
+* Gulp
+* WebPack
+* Bootstrap
+* JQuery
 
 ---
 
