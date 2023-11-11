@@ -12,3 +12,4 @@
 * JavaScript
 * Git, GitHub
 * Figma
+* Algorithms and Data Structures
